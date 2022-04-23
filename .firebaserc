@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab7-b66b3"
+  },
+  "targets": {
+    "lab7-b66b3": {
+      "hosting": {
+        "q1": [
+          "lab7q1-1112"
+        ]
+      }
+    }
+  }
+}
